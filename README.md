@@ -1,4 +1,4 @@
-# Poker Spin and Gold Analyze
+# Poker Spin and Gold Analyzer
 
 這個程式可以分析德州撲克平台 Natural8 的 spin and gold 遊戲結果，計算玩家營利、勝率、機率等情況。
 
