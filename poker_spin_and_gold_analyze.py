@@ -66,4 +66,5 @@ print("per game expected profit : ", game_ev * win_game_count / sum(Prize_count)
 print("expected profit: ", (game_ev * win_game_count / sum(Prize_count) - mode) * sum(Prize_count)) 
 print(f"need {mode / game_ev} win rate to make a profit")
 print("per game expected profit with 33% win rate: ", game_ev / 3 - mode)
+
 print("expected profit with 33% win rate: ", (game_ev / 3 - mode) * sum(Prize_count)) 
